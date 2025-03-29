@@ -40,10 +40,10 @@
 ## 📫 Me contacter  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sami-saoud-446836340/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
   <a href="mailto:sami.ssaoud@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sami-saoud-446836340/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
