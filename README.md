@@ -1,6 +1,8 @@
 # Salut ! 👋 Moi, c'est Sami  
 
-![Bannière](./banner.jpg) 
+<p align="center">
+  <img src="banner.png" width="250" height="250" alt="Image de profil">
+</p>
 
 🎓 Au cours de ma formation, j’ai acquis des compétences en **programmation** (Java, C, Programmation Objet), en **développement web** (HTML, CSS, JavaScript, React, NodeJS...) et en **gestion de projets** (AGILE).  
 
@@ -46,4 +48,3 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" />
   </a>
 </p>
-
