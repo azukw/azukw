@@ -1,8 +1,6 @@
 # Salut ! 👋 Moi, c'est Sami  
 
-<p align="center">
-  <img src="hero.jpg" alt="Sami">
-</p>
+![Bannière](./banner.jpg) 
 
 🎓 Au cours de ma formation, j’ai acquis des compétences en **programmation** (Java, C, Programmation Objet), en **développement web** (HTML, CSS, JavaScript, React, NodeJS...) et en **gestion de projets** (AGILE).  
 
