@@ -48,7 +48,3 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" />
   </a>
 </p>
-
----
-
-N’hésite pas à me contacter pour échanger !
