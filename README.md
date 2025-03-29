@@ -1,4 +1,8 @@
-## Salut ! 👋 Moi, c'est Sami  
+# Salut ! 👋 Moi, c'est Sami  
+
+<p align="center">
+  <img src="hero.jpg" width="250" height="250" alt="Sami">
+</p>
 
 🎓 Au cours de ma formation, j’ai acquis des compétences en **programmation** (Java, C, Programmation Objet), en **développement web** (HTML, CSS, JavaScript, React, NodeJS...) et en **gestion de projets** (AGILE).  
 
@@ -13,24 +17,37 @@
 - **Gestion de projet** : Méthodologie AGILE, collaboration  
 
 ## 🛠️ Outils  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js)  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)  
-![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp)  
-![GDScript](https://img.shields.io/badge/-GDScript-lightgrey?style=flat-square&logo=godotengine)  
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine)  
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp" />
+  <img src="https://img.shields.io/badge/-GDScript-lightgrey?style=flat-square&logo=godotengine" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine" />
+  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+</p>
 
 ## 📌 À propos de moi  
-- 📖 **Actuellement à l'Université de Rennes, bientôt en master** 
-- 💻 **Actuellement, je travaille principalement avec ReactJs pour le web et GDScript pour le développement de jeux**
-📫 **Comment me contacter ?** → [LinkedIn](https://www.linkedin.com/in/sami-saoud-446836340/) | [Email](mailto:sami.ssaoud@gmail.com)
+- 📖 **Actuellement à l'Université de Rennes**, bientôt en master  
+- 💻 **Actuellement, je travaille principalement avec React pour le web et GDScript pour le développement de jeux**  
+
+## 📫 Me contacter  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sami-saoud-446836340/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:sami.ssaoud@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
