@@ -4,7 +4,7 @@
 
 🎓 Au cours de ma formation, j’ai acquis des compétences en **programmation** (Java, C, Programmation Objet), en **développement web** (HTML, CSS, JavaScript, React, NodeJS...) et en **gestion de projets** (AGILE).  
 
-💻 J’ai pu mettre en pratique ces compétences à travers des **projets personnels**, notamment la création de mon **portfolio** ([samisaoud.me](https://samisaoud.me)) et le développement de **jeux vidéo**.  
+💻 J’ai pu mettre en pratique ces compétences à travers des **projets personnels**, notamment la création de mon **[portfolio](https://samisaoud.me)** et le développement de **jeux vidéo**.  
 
 🚀 Ces expériences m'ont permis de développer des **compétences transversales**, comme l'autonomie, la gestion de projet et le travail en équipe.  
 
