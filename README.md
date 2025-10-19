@@ -35,7 +35,7 @@
 ## 📌 À propos de moi  
 - 📖 **Actuellement à l'Université de Rennes**, bientôt en master  
 - 💻 **Actuellement, je travaille principalement avec React pour le web et GDScript pour le développement de jeux**
-- 🎮 **En ce moment, je travaille sur un jeu de gestion de ferme**
+- 🎮 **En ce moment, je travaille sur un projet top secret**
 
 ## 📫 Me contacter  
 
