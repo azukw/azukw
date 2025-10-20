@@ -33,8 +33,8 @@
 </p>
 
 ## 📌 À propos de moi  
-- 📖 **Actuellement à l'Université de Rennes**, bientôt en master  
-- 💻 **Actuellement, je travaille principalement avec React pour le web et GDScript pour le développement de jeux**
+- 📖 **Actuellement à l'Université de Côte d'Azur**, en master MAJIC  
+- 💻 **Actuellement, je travaille principalement avec React pour le web et Unity pour le développement de jeux**
 - 🎮 **En ce moment, je travaille sur un projet top secret**
 
 ## 📫 Me contacter  
