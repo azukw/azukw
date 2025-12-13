@@ -34,7 +34,7 @@
 
 ## 📌 À propos de moi  
 - 📖 **Actuellement à l'Université de Côte d'Azur**, en master MAJIC  
-- 💻 **Actuellement, je travaille principalement avec React pour le web et Unity pour le développement de jeux**
+- 💻 **Actuellement, je travaille principalement avec React pour le web et Unity/Unreal pour le développement de jeux**
 - 🎮 **En ce moment, je travaille sur un projet top secret**
 
 ## 📫 Me contacter  
