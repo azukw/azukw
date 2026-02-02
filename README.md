@@ -1,45 +1,95 @@
-# Salut ! 👋 Moi, c'est Sami  
-
-![Bannière](./banner.jpg)  
-
-🎓 Au cours de ma formation, j’ai acquis des compétences en **programmation** (Java, C, Programmation Objet), en **développement web** (HTML, CSS, JavaScript, React, NodeJS...) et en **gestion de projets** (AGILE).  
-
-💻 J’ai pu mettre en pratique ces compétences à travers des **projets personnels**, notamment la création de mon **[portfolio](https://samisaoud.dev)** et le développement de **jeux vidéo**.  
-
-🚀 Ces expériences m'ont permis de développer des **compétences transversales**, comme l'autonomie, la gestion de projet et le travail en équipe.  
-
-## 🔹 Compétences  
-- **Programmation** : Java, C, C#, GDScript, Programmation Objet  
-- **Développement Web** : HTML, CSS, JavaScript, React, NodeJS  
-- **Développement de Jeux Vidéo** : Godot (GDScript, C#), Unity (C#), Unreal Engine (Blueprints, C++)  
-- **Gestion de projet** : Méthodologie AGILE, collaboration  
-
-## 🛠️ Outils  
+# Salut, moi c’est **Sami**
 
 <p align="center">
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5" style="margin-right: 8px;" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3" style="margin-right: 8px;" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" style="margin-right: 8px;" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" style="margin-right: 8px;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" style="margin-right: 8px;" /></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c" style="margin-right: 8px;" /></a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B" style="margin-right: 8px;" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp" style="margin-right: 8px;" /></a>
-  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html" target="_blank"><img src="https://img.shields.io/badge/-GDScript-lightgrey?style=flat-square&logo=godotengine" style="margin-right: 8px;" /></a>
-  <a href="https://godotengine.org/" target="_blank"><img src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine" style="margin-right: 8px;" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" style="margin-right: 8px;" /></a>
-  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine" style="margin-right: 8px;" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /></a>
+  <img src="./banner.jpg" />
 </p>
 
-## 📌 À propos de moi  
-- 📖 **Actuellement à l'Université de Côte d'Azur**, en master MAJIC  
-- 💻 **Actuellement, je travaille principalement avec React pour le web et Unity/Unreal pour le développement de jeux**
-- 🎮 **En ce moment, je travaille sur un projet top secret**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Me contacter  
+### Profil
+
+**Étudiant en Master MAJIC** à l’Université Côte d’Azur, spécialisé en  
+**développement de jeux vidéo** et **développement logiciel**.
+
+Passionné par le **game development**, j’ai travaillé sur **plusieurs projets de jeux vidéo** sur  
+**Unity**, **Unreal Engine** et **Godot**.
+
+De l’idée au prototype jouable, je conçois des mécaniques solides et des expériences interactives.
+
+### Spécialisation Jeu Vidéo
+
+- Développement de jeux **2D / 3D**
+- Implémentation de **gameplay mechanics**, **UI** et **sons**
+- Prototypage rapide et itération
+- Projets variés sur **Unity, Unreal et Godot**
+- Méthodologie **AGILE**
+- Travail en équipe et autonomie
+- Gestion de projet
+
+<br/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Compétences
+
+#### Langages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+#### Game Engines
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=unreal" />
+  <img src="https://skillicons.dev/icons?i=godot" />
+</p>
+
+#### Développement Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+#### Outils et méthodologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=wise" />
+  
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### Me contacter
 
 <p align="center">
-  <a href="mailto:sami.ssaoud@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" style="margin-right: 8px;" /></a>
-  <a href="https://www.linkedin.com/in/sami-saoud-446836340/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:sami.ssaoud@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sami-saoud-446836340/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </p>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
