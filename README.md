@@ -82,7 +82,7 @@ De l’idée au prototype jouable, je conçois des mécaniques solides et des ex
   <a href="mailto:sami.ssaoud@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/sami-saoud/">
+  <a href="https://www.linkedin.com/in/samisaoud/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
