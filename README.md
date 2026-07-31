@@ -1,8 +1,3 @@
-# Salut, moi c’est **Sami**
-
-<p align="center">
-  <img src="./banner.jpg" />
-</p>
 
 <table>
 <tr>
