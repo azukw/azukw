@@ -19,7 +19,7 @@ Currently a second-year (M2) MAJIC Master's student at the Georges Méliès Camp
 
 ![Cplusplus](https://www.readmecodegen.com/api/social-icon?name=Cplusplus&size=46&reverseBackground=true&link=)
 ![Csharp](https://skillicons.dev/icons?i=cs)
-![HTML5-CSS-JavaScript-Java-Python](https://www.readmecodegen.com/api/social-icon?name=HTML5%2CCSS%2CJavaScript%2CJava%2CPython%2CGmail%2CLinkedIn%2Citchdotio&size=46&reverseBackground=true&link=)
+![HTML5-CSS-JavaScript-Java-Python](https://www.readmecodegen.com/api/social-icon?name=HTML5%2CCSS%2CJavaScript%2CJava%2CPython&size=46&reverseBackground=true&link=)
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
