@@ -25,7 +25,9 @@ Currently a second-year (M2) MAJIC Master's student at the Georges Méliès Camp
 
 <img src="assets/header-playing.svg" width="100%" alt="currently listening to"/>
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=lyx427aeb85qdx23js15yaqyy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lyx427aeb85qdx23js15yaqyy&redirect=true)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lyx427aeb85qdx23js15yaqyy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" width="400" alt="spotify-github-profile" />
+</a>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
