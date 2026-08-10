@@ -1,0 +1,20 @@
+<svg viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="rough" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.2"/>
+    </filter>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#e2d7ba"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="90" fill="none"/>
+  <rect x="0" y="14" width="900" height="60" fill="#faf3e3" opacity="0.0"/>
+  <g transform="translate(470,2) rotate(-6)">
+    <rect x="0" y="0" width="70" height="26" fill="#f4b6c2" opacity="0.85" filter="url(#rough)"/>
+  </g>
+  <path d="M20 55 Q450 40 880 55" stroke="#f2ede0" stroke-width="2" fill="none" filter="url(#rough)" opacity="0.4"/>
+  <g transform="translate(20,45)" stroke="#f2ede0" stroke-width="2.4" stroke-linecap="round" filter="url(#rough)"><path d="M0 -16 L0 16 M-16 0 L16 0 M-11 -11 L11 11 M11 -11 L-11 11"/></g>
+  <text x="55" y="60" font-family="'Segoe Print','Bradley Hand','Comic Sans MS',cursive" font-size="34" font-weight="700" fill="#f2ede0" transform="rotate(-1 55 60)">about me</text>
+  <path d="M55 72 Q140 80 225 72" stroke="#c0392b" stroke-width="3" fill="none" stroke-linecap="round" filter="url(#rough)"/>
+</svg>
